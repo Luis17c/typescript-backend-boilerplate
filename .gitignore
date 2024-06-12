@@ -2,5 +2,5 @@
 .env
 /dist
 yarn.lock
-tmp
-!/**/.gitkeep
+tmp/*
+!tmp/.gitkeep
